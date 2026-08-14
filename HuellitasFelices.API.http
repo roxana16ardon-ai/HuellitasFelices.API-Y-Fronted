@@ -1,0 +1,6 @@
+@HuellitasFelices.API_HostAddress = http://localhost:5078
+
+GET {{HuellitasFelices.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
